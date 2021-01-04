@@ -1,0 +1,21 @@
+.scary {
+    color:red;
+}
+.actor {
+    color:orange;
+}
+.artist {
+    color:#FF1493
+;
+}
+.show {
+    color:brown;
+}
+img {
+    width:400px;
+    height:300px;
+    border-style:dotted dashed solid double;
+}
+body{
+    background-image:url("https://jooinn.com/images/sparkle-1.png");
+}
